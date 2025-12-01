@@ -4,7 +4,7 @@ import pandas as pd
 
 st.write(''' # PREDICCION - COSTO DE ACTIVIDAD ''')
 st.image(
-    "gastos.jpeg",
+    "gastos.jpg",
     caption="RODRIGO SÁNCHEZ ACOSTA - A1615173 : Esta app esta diseñada para calcular el costo de una actividad en base al registro de datos que he llevado a lo largo del semestre ago- dic 2025."
 )
 
